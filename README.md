@@ -16,3 +16,7 @@ To decode I used an BMS script I found online , it worked for me for an older ga
 </ul>
 
 cubemap and cubebin are related , spark are more for the data
+cubemap and cubebin are related to CUB.
+
+## Lua Implementation 
+The actual game code is actually stored in cubebin files and the acutal executable is the engine itself.

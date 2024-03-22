@@ -18,5 +18,8 @@ To decode I used an BMS script I found online , it worked for me for an older ga
 cubemap and cubebin are related , spark are more for the data
 cubemap and cubebin are related to CUB.
 
+BMP's are used for <b>placeholders</b> , in HOG scenes , puzzles , or the inventory.
+
+
 ## Lua Implementation 
 The actual game code is actually stored in cubebin files and the acutal executable is the engine itself.

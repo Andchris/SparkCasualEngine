@@ -24,4 +24,4 @@ Cubebin is the lua code for the exe.
 
 ## Lua Implementation 
 The actual game code is actually stored in cubebin files and the  executable is the engine itself.
-Cubebin files are in theory just lua scripts but encrypted , yet they are still pretty readable , which helps a lot in decompiling the actual game.
+Cubebin files are in theory just lua scripts but encrypted , yet they are still pretty readable , which helps a lot in decompiling the games.

@@ -20,6 +20,8 @@ cubemap and cubebin are related to CUB.
 
 BMP's are used for <b>placeholders</b> , in HOG scenes , puzzles , or the inventory.
 
+Cubebin is the lua code for the exe.
 
 ## Lua Implementation 
 The actual game code is actually stored in cubebin files and the acutal executable is the engine itself.
+Cubebin files are in theory just lua scripts but encrypted , yet they are still pretty readable , which helps a lot in decompiling the actual game.
